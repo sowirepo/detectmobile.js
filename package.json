@@ -1,0 +1,10 @@
+{
+  "name": "sw-detectmobile",
+  "version": "0.0.1",
+  "description": "Don't use except for legacy reasons",
+  "main": "src/detectmobile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowirepo/detectmobile.js.git"
+  }
+}
